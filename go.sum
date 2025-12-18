@@ -1,0 +1,14 @@
+github.com/voodooEntity/archivist v1.0.2 h1:QesszRfOPdGmkT1ieAXa6LkRkch/22R/LPTu8DFkKUY=
+github.com/voodooEntity/archivist v1.0.2/go.mod h1:Kw+7tEDicfscFX3Kl4wzTmICO66MjWxpXlFEP3UJCGc=
+github.com/voodooEntity/gits v0.9.5 h1:psQe0LyOcU15Jm8Np6jzox24MjzB5mkQw8hDLp+I1Ok=
+github.com/voodooEntity/gits v0.9.5/go.mod h1:VB7qpYFyIXzP9pO9IukCGTg7mJ9FLlpXY6dqsCu1LlY=
+github.com/voodooEntity/gits v0.9.7 h1:6MTqHYUaZMuMGOmOY+ByF3RwSCDqSOU+u2EHRbKcRO0=
+github.com/voodooEntity/gits v0.9.7/go.mod h1:VB7qpYFyIXzP9pO9IukCGTg7mJ9FLlpXY6dqsCu1LlY=
+github.com/voodooEntity/gitsapi v0.0.20 h1:P0tLDaS5l/QtS+u4xJKq4MYDR8nZDCYXSJmdFahRpyU=
+github.com/voodooEntity/gitsapi v0.0.20/go.mod h1:TQ+m2NLypKsWFcCq6WubhCjvre/zbwnx4mEfGgWhLKs=
+github.com/voodooEntity/gitsapi v0.1.0 h1:YSHo0g7+mMFVETEE9HDRQdcA3OuTE0uTK8QrfbkqU78=
+github.com/voodooEntity/gitsapi v0.1.0/go.mod h1:M2+/7keKXlQ3KHecnA0o2FVEh3IlyxlJRJepx985hxY=
+github.com/voodooEntity/go-cyberbrain-plugin-interface v0.2.2 h1:UFC7gKu72FLbYEqOLMEd222jqtPjfbKpHmahKTtl/LQ=
+github.com/voodooEntity/go-cyberbrain-plugin-interface v0.2.2/go.mod h1:XO+gB/3g2QEpJujRFNCbuR4iKYDAv9rdlmvWGuQ0ucw=
+golang.org/x/crypto v0.9.0 h1:LF6fAI+IutBocDJ2OT0Q1g8plpYljMZ4+lty+dsqw3g=
+golang.org/x/crypto v0.9.0/go.mod h1:yrmDGqONDYtNj3tH8X9dzUun2m2lzPa9ngI6/RUPGR0=
