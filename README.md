@@ -19,6 +19,7 @@
     - [Getting Started](docs/GETTING_STARTED.md)
     - [Core Concepts & Architecture](docs/CONCEPTS.md)
     - [Developing Custom Actions](docs/ACTIONS.md)
+- [Future plans](#future-plans)
 - [License](#license)
 
 ---
@@ -68,6 +69,18 @@ Use cyberbrain wherever you want automated, iterative enrichment and orchestrati
 
 ---
 
+### Future plans
+
+As mentioned in the disclaimer right now this project is in an early (experimental) stage. The following list is a collection of ideas and may change at any time:
+
+* Implement a cyberbrain setting which extends the use of memory (witness) nodes to increase the traceability of your executions. 
+* Add an example project consisting of multiple (~3) actions to showcase a simple use case and provide a reference implementation.
+* Extend cyberbrain to support the definition of "whitelist" rules. These should be used to limit certain actions to certain domains (for example preventing actions on sensitive data).
+* Add a simple tool to detect and visualize cyberbrain execution "paths" (e.g. a graph input -> actions -> outputs -> inputs ....).
+* Add a "sense of time" to cyberbrain, which would allow to schedule jobs based on the passage of time.
+* Add helpers to easier fetch and process final result data from cyberbrain
+
+---
 
 ### License
 
